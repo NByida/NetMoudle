@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+.idea/*
+!.idea/copyright
+.DS_Store
+/build
+/app/debug
+/captures
+.externalNativeBuild
+ktlint
+/release/config.pyc
+/release/jiagu/log
+/release/jiagu/output
