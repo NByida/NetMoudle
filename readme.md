@@ -4,7 +4,7 @@
 	        implementation 'com.github.NByida:NetMoudle:1.0'
 }
 ```
-#2 在application中初始化
+# 2 在application中初始化
 ```class App : Application() {
        override fun onCreate() {
            super.onCreate()
