@@ -14,5 +14,4 @@ class MainViewModel : BaseViewModel() {
         }, { list.value = it })
     }
 
-
 }
