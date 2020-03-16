@@ -1,4 +1,4 @@
-#1 使用方法
+# 1 使用方法
  ```
  dependencies {
 	        implementation 'com.github.NByida:NetMoudle:1.0'
@@ -15,7 +15,7 @@
    }
 ```
 
-#3 继承BaseViewModel
+# 3 继承BaseViewModel
 ```使用launchOnlyResult发起请求
     
     fun getPoetryByTag() {
@@ -26,7 +26,7 @@
 
 ```
 
-#4 在UI层处理请求结果
+# 4 在UI层处理请求结果
 ```
 viewModel.list.observe(this, Observer {
             var iterator = it.iterator()
